@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GithubHelper</string>
+    <string name="author_name">IvanQin</string>
+    <string name="home_icon">Home</string>
+    <string name="search_icon">Search</string>
+    <string name="account_icon">Account</string>
+    <string name="debugCenterText1">content_content_content</string>
+    <string name="debugCenterText2">drawer1</string>
+    <string name="debugCenterText3">drawer2</string>
+    <string name="menuOpen">open</string>
+    <string name="menuClose">close</string>
+    <string name="showToast">showToast</string>
+    <string name="testFragmentText">second frame</string>
+    <string name="doubleClick">double click</string>
+    <string name="startContact">start contact</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="select">select</string>
+    <string name="scrollToTheTop">scroll to the top</string>
+    <string name="batteryChanged">battery changed</string>
+    <string name="submit">submit</string>
+    <string name="def">default</string>\
+    <string name="start">start</string>
+</resources>

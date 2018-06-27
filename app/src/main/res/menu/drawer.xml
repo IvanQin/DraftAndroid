@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/account_icon"
+            android:icon="@drawable/avatar"
+            android:id="@+id/menu_account"
+            >
+
+        </item>
+        <item android:title="@string/home_icon"
+            android:icon="@drawable/home"
+            android:id="@+id/menu_home"
+            >
+        </item>
+        <item android:title="@string/search_icon"
+            android:icon="@drawable/ic_search_black_24dp"
+            app:showAsAction="never"
+            android:id="@+id/menu_search"
+            />
+    </group>
+
+</menu>
